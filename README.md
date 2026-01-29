@@ -132,7 +132,7 @@ Open an issue or discussion.
 
 <br>
 
-- **GitHub:** https://github.com/Wasttedx  
+- **GitHub:** https://github.com/ArmanKianian
 - **Email:** Wastted@proton.me  
 
 </details>
