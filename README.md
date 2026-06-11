@@ -1,3 +1,5 @@
+### I used LLMs on this project, project is not completed and i have no plan to work on it for now, right now it only generate a layer based terrain with height based object spawning. (everything you see on picture)
+
 # 🌑 Wasteds  
 ### Dark Low-Poly Open-World Survival RPG
 
